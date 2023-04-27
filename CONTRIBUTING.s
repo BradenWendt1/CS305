@@ -1,4 +1,8 @@
 # Braden Wendt
+
+To be honest I dont have any idea of what this project is but it looks interesting. 
+Anyways my name is Karissa Smallwood and Im being forced by Braden to write this :).
+
 # Project 9
 #==============================================================================
 # maze.s

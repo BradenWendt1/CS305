@@ -1,5 +1,9 @@
 
  
+This is a made up Subheader for your README file by Karissa Smallwood.
+
+
+
 Overview:
 	In this project we are to build out the necessary functions for building a maze. They consist of rand, XYToIndex, IsInBounds, and PrintGrid. We are given skeleton C code which replicates what we are going to build. For this project we do not need to have a complete maze, but only have a wall of “#” characters. The other functions are like things we have done before, they provide certain functionality for the next project.
 Results:
